@@ -1,0 +1,32 @@
+.expense-list{
+    display:flex;
+    flex:1;
+    margin:6px 12x;
+    flex-direction: column;
+}
+
+.empty-state{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.empty-state img{
+    height:360px;
+}
+
+@media only screen and (max-width:1024px)
+{
+    .empty-state img{
+        height:320px;
+    }
+}
+
+@media only screen and (max-width:512px)
+{
+    .empty-state img{
+        height:240px;
+    }
+
+}

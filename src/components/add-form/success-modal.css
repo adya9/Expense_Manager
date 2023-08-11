@@ -1,0 +1,39 @@
+.modal-inner{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.added-image{
+    height:360px;
+}
+
+.take-home-button{
+    border:1px solid black;
+    border-radius: 6px;
+    /* vertical padding -4px and horizontal - 8px */
+    padding :4px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.take-home-button i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width:1024px)
+{
+    .added-image{
+        height:320px;
+    }
+}
+
+@media only screen and (max-width:512px)
+{
+    .added-image{
+        height:240px;
+    }
+}
