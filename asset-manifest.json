@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expense_Manager/static/css/main.9af5918c.css",
+    "main.js": "/Expense_Manager/static/js/main.a3b22c1a.js",
+    "static/js/787.606f0ee5.chunk.js": "/Expense_Manager/static/js/787.606f0ee5.chunk.js",
+    "static/media/empty.png": "/Expense_Manager/static/media/empty.a423855b9ffebadcf92c.png",
+    "static/media/success.png": "/Expense_Manager/static/media/success.9fe51eea1784a919de6f.png",
+    "static/media/food.png": "/Expense_Manager/static/media/food.469b3bb3badf6953f893.png",
+    "static/media/medicine.png": "/Expense_Manager/static/media/medicine.11a1dd24a7f822e88b56.png",
+    "static/media/other.png": "/Expense_Manager/static/media/other.093ed674e15918c81214.png",
+    "static/media/education.png": "/Expense_Manager/static/media/education.4d659e0603655cd5fc60.png",
+    "static/media/shopping.png": "/Expense_Manager/static/media/shopping.eacb13c3e81642dfa4a3.png",
+    "index.html": "/Expense_Manager/index.html",
+    "main.9af5918c.css.map": "/Expense_Manager/static/css/main.9af5918c.css.map",
+    "main.a3b22c1a.js.map": "/Expense_Manager/static/js/main.a3b22c1a.js.map",
+    "787.606f0ee5.chunk.js.map": "/Expense_Manager/static/js/787.606f0ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af5918c.css",
+    "static/js/main.a3b22c1a.js"
+  ]
+}
